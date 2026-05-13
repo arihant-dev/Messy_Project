@@ -1,4 +1,4 @@
-import code1
+from src import code1
 
 def test_add():
     assert code1.Add(2, 3) == 5
